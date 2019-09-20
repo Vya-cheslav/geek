@@ -82,7 +82,6 @@ from 	shop.tab_item t1,
 		shop.tab_item t5,
 		shop.tab_item t6
 
-limit 10
 
 
 
