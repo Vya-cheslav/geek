@@ -1,7 +1,7 @@
 import requests
 
-user = 'Vya-cheslav'
-token = '1ce98717d1add4a594fa9e1aeff609a1fe88f523'
+user = ''
+token = ''
 
 headers = {'Authorization': f'token {token}'}
 
