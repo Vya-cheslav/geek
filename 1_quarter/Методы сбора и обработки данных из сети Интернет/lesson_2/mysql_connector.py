@@ -3,8 +3,8 @@ import mysql.connector
 
 
 def conn():
-    cnx = mysql.connector.connect(user='root', password='norton',
-                                  host='162.162.162.30', database = 'net',
+    cnx = mysql.connector.connect(user='root', password='root',
+                                  host='1.1.1.30', database = 'net',
                                   port='3307')
     return cnx
 
